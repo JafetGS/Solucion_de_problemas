@@ -1,7 +1,11 @@
 # Solucion_de_problemas
 
-Para esta actividad trabajaremos con la base de datos de calificaciones que utilizamos en la lectura interactiva L1.1 Aprendizaje estadístico-automático. Nos interesa tratar de predecir la calificación final de estudiantes de un curso, a partir de su información demográfica y sus calificaciones de los primeros dos periodos.
-Utilizaremos el archivo de nombre “A1.5 Calificaciones.csv”, donde podrás encontrar información para 395 estudiantes, con 10 variables en total. Los datos se descargaron del Student Performance Data Set en el UCI Machine Learning Repository, y podrás encontrar más información sobre los mismos en el siguiente enlace.
+En este proyecto, se solucionaran distintos tipos de problemas que se presentan al momento de buscar analizar datos para generar un modelo de regresión lineal múltiple, tales como colinealidad, interacción, datos de tipo cualitativo, entre otros.
+
+Se trabajara con una base de datos de calificaciones, "Calificaciones". Nos interesa tratar de predecir la calificación final de estudiantes de un curso, a partir de su información demográfica y sus calificaciones de los primeros dos periodos.
+
+La base de datos contiene la información para 395 estudiantes, con 10 variables en total. Los datos se descargaron del Student Performance Data Set en el UCI Machine Learning Repository.
+
 La base de datos cuenta con la siguiente información:
 - “Escuela”. Indica si el estudiante en cuestión asistía a la escuela Gabriel Pereira (GP) o a la escuela Mousinho da Silveira (MS).
 - “Sexo”. F para mujeres y M para hombres.
@@ -16,6 +20,7 @@ indica de dos a cinco horas, 3 indica de cinco a diez horas, 4 indica más de di
 - “G3”. Calificación final, escala del 0 al 20.
 
 Este proyecto incluye los siguientes documentos:
+
 [Reporte en formato html](https://mail.google.com/mail/u/0?ui=2&ik=cd0996d24e&attid=0.1&permmsgid=msg-a:r-1715689959935309803&view=att&disp=safe&realattid=f_mevk6ta40&zw)
 
 [Repore en formato pdf](https://mail.google.com/mail/u/0?ui=2&ik=cd0996d24e&attid=0.3&permmsgid=msg-a:r-1715689959935309803&view=att&disp=safe&realattid=f_mevk6taq2&zw)
